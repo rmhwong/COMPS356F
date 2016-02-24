@@ -20,6 +20,7 @@ public class COMPS356F {
           System.out.println("Github Sample");
           System.out.println("Github Sample1");
           System.out.println("Github Sample2");
+          System.out.println("Github Sample3");
      }
      
 }
