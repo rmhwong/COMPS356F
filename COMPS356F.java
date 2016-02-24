@@ -7,7 +7,7 @@ package comps356f;
 
 /**
  *
- * @author rmhwong
+ * @author rmhwong abc
  */
 public class COMPS356F {
 
@@ -17,6 +17,11 @@ public class COMPS356F {
      public static void main(String[] args) {
           // TODO code application logic here
           System.out.println("HelloWorld");
+          System.out.println("Github Sample");
+          System.out.println("Github Sample1");
+          System.out.println("Github Sample2");
+          System.out.println("Github Sample3");
+          System.out.println("Github Sample4");
      }
      
 }
