@@ -1,11 +1,11 @@
 /*
  * By: Raymond Wong
  */
-package comps356f;
+package src.comps356f;
 
 /**
  *
- * @author rmhwong ijilknoil
+ * @author rmhwong ijilknoilbbb
  */
 public class COMPS356F {
 
