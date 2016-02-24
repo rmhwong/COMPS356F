@@ -5,7 +5,7 @@ package comps356f;
 
 /**
  *
- * @author rmhwong
+ * @author rmhwong ijilknoil
  */
 public class COMPS356F {
 
