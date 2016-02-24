@@ -19,6 +19,7 @@ public class COMPS356F {
           System.out.println("HelloWorld");
           System.out.println("Github Sample");
           System.out.println("Github Sample1");
+          System.out.println("Github Sample2");
      }
      
 }
